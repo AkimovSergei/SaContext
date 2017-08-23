@@ -1,0 +1,19 @@
+{
+  "name": "sa/context",
+  "description": "Context pattern for Laravel 5 framework",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sergii Akimov",
+      "email": "akimov.sergii@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Sa\\Context\\": "src"
+    }
+  }
+}
